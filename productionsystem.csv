@@ -1,8 +1,6 @@
-id,title,Crop
+id,title,country
 1,Tillage,Sugarcane production system
 2,Planting,Sugarcane production system
 3,Inter-cultivation operations,Sugarcane production system
 4,Fertilizers,Sugarcane production system
 5,Harvesting,Sugarcane production system
-
-
