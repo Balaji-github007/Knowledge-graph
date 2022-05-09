@@ -1,4 +1,4 @@
-id,name
-1,Cultivators
-2,Harrowing
-3,Rotary Tiller
+id,name,description
+1,Cultivators,To loose soil
+2,Harrowing,pulverizing the soil as well as to cut the weeds and to mix the materials with the soil
+3,Rotary Tiller,provides fine degree of pulverization enabling the necessary rapid and intimate mixing of soil
