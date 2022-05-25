@@ -1,4 +1,4 @@
-id,size,qty
-1,30-40HP,1
-2,40-50HP,1
-3,50-75HP,1
+id,size,qty,customer
+1,30-40HP,1,Customer A
+2,40-50HP,1,Customer A
+3,50-75HP,1,Customer A
