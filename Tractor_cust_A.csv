@@ -2,3 +2,6 @@ id,size,qty,customer
 1,30-40HP,1,Customer A
 2,40-50HP,1,Customer A
 3,50-75HP,1,Customer A
+4,30-40HP,1,Customer B
+5,40-50HP,1,Customer B
+6,50-75HP,1,Customer B
